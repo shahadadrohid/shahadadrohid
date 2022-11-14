@@ -4,7 +4,7 @@
 ### Front-end
    - HTML5
    - CSS3
-   - Bootstrap
+   - Bootstrap (v5)
    - Tailwind
    - JavaScript (ES6)
    - React
